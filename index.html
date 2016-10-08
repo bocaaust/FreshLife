@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:url"           content="http://www.phreshmylife.com" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="PhreshMyLife" />
+	<meta property="og:description"   content="A new website devoted to helping you plan and support your ideal health and philanthropic lifestyle." />
+	<meta property="og:image"         content="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" />
     <title>Fresh Life</title>
     <!-- Bootstrap -->
     
@@ -21,6 +26,15 @@
 		<![endif]-->
   </head>
   <body>
+  <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+    
   <a style="color: #CEDBC3; overflow: hidden;">
       <nav class="navbar navbar-default" style="margin-bottom:0px;">
         <div class="container-fluid">
@@ -30,9 +44,8 @@
            </div>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-              <li class="animated first fadeInDown" style=" margin:0px; padding:0px;"><a href="#">First Page</a></li>
-              <li class="animated fadeInDown de"><a href="#">Second Page</a></li>
-              <li class="animated fadeInDown dn"><a href="#">Third Page</a></li>
+              <li class="animated first fadeInDown" style=" margin:0px; padding:0px;"><a href="#">Log In</a></li>
+              <li class="animated fadeInDown de"><a href="#">Sign Up</a></li>
             </ul>
           </div>
 
@@ -45,7 +58,10 @@
       <a href="index.html"><img src="img/banner.png" alt="banner" width="100%" class="img-responsive"></a></div>
       <div class="row">
       	<div class="col-sm-8 col-sm-offset-2">
-        
+        <div class="fb-share-button" 
+		data-href="http://www.phreshmylife.com" 
+		data-layout="button_count">
+	</div>
         </div>
       </div>
       </div>
@@ -56,32 +72,4 @@
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
 	<script src="js/bootstrap.js"></script>
   </body>
-</html>
-
-<html>
-<head>
-	<title>Phresh My Life</title>
-	<meta property="og:url"           content="http://www.phreshmylife.com" />
-	<meta property="og:type"          content="website" />
-	<meta property="og:title"         content="PhreshMyLife" />
-	<meta property="og:description"   content="A new website devoted to helping you plan and support your ideal health and philanthropic lifestyle." />
-	<meta property="og:image"         content="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" />
-</head>
-<body>
-
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-
-	<div class="fb-share-button" 
-		data-href="http://www.phreshmylife.com" 
-		data-layout="button_count">
-	</div>
-
-</body>
 </html>
