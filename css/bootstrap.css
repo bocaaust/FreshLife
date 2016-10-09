@@ -6762,4 +6762,7 @@ button.close {
 .tagobject {
 	display:inline; background-color:black;color:white; margin-right:2px; margin-left:2px;
 }
+.tagobject:hover {
+	display:inline; background-color:black;color:white; margin-right:2px; margin-left:2px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
