@@ -6,5 +6,677 @@
   <meta property="og:title" content="Presh Lyfe">
   <meta property="og:description" content="​ Want to sign up for an account? Send a photo of your fresh groceries our handy phone number! Through some awesome AI (or, maybe, a little bit of magic) we then see what you're buying and how much you're spending on it. From there, we help you develop a healthy eating plan and purchase next week's groceries more efficiently and for cheaper. From there, you donate that extra cash to local food pantries so they can forward social equity in your community.">
   <meta property="og:image" content="http://phreshlyfe.weebly.com/uploads/9/1/6/0/91602050/462802573.png?428">
-  
-  
+  <meta property="og:url" content="http://phreshlyfe.weebly.com/">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0;">
+  <link id="wsite-base-style" rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/sites.css?buildTime=1475783654">
+  <link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/old/fancybox.css?1475783654">
+  <link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/social-icons.css?buildtime=1475783654" media="screen,projection">
+  <link rel="stylesheet" type="text/css" href="/files/main_style.css?1475981871" title="wsite-theme-css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Cookie&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <style type="text/css">
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Lato" !important;font-size:20px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#666c70 !important;}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{font-family:"Lato" !important;}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Lato" !important;font-size:20px !important;font-style:normal !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#2a2a2a !important;}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{font-family:"Montserrat" !important;text-transform:  uppercase !important;}
+#wsite-title {font-family:"Cookie" !important;font-size:35px !important;letter-spacing: 1px !important;}
+.wsite-footer h2 a, .wsite-footer .paragraph a, .wsite-footer blockquote a {color:#888 !important;}
+.wsite-menu-default a {font-family:"Montserrat" !important;font-size:16px !important;text-transform:  uppercase !important;}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-family:"Lora" !important;color:#fff !important;text-transform:  none !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+.wsite-footer h2 a:hover, .wsite-footer .paragraph a:hover, .wsite-footer blockquote a:hover {color:#888 !important;}
+</style>
+
+<body class="header-page  wsite-page-index  wsite-theme-light postload w-navpane-is-forced"><div id="header" style="top: -74px;">
+		<div class="container">
+			<div class="icons">
+				<div class="w-navpane-trigger hamburger">
+					<span></span>
+				</div>
+			</div>
+			<div class="logo"><span class="wsite-logo">
+
+	<a href="/">
+	
+	<span id="wsite-title">Phresh Lyfe</span>
+	
+	</a>
+
+</span></div>
+			<div class="icons">
+				
+				
+				<a href="#" class="close w-navpane-close"><span></span></a>
+			</div>
+		</div>
+		<div id="navlist" class="w-navlist nav"><ul class="wsite-menu-default">
+		
+		<li id="active" class="wsite-menu-item-wrap   wsite-nav-1" style="position: relative;">
+			<a href="/" class="wsite-menu-item " style="position: relative;">
+				Home
+			
+			</a>
+			
+		</li>		
+		<li id="pg679933776171784894" class="wsite-menu-item-wrap   wsite-nav-2" style="position: relative;">
+			<a href="/shop.html" class="wsite-menu-item " style="position: relative;">
+				Shop
+			
+			</a>
+			
+		</li>		
+		<li id="pg478548313842267301" class="wsite-menu-item-wrap   wsite-nav-3" style="position: relative;">
+			<a href="/about.html" class="wsite-menu-item " style="position: relative;">
+				About
+			
+			</a>
+			
+		</li>		
+		<li id="pg199602549373908762" class="wsite-menu-item-wrap   wsite-nav-4" style="position: relative;">
+			<a href="/updates.html" class="wsite-menu-item " style="position: relative;">
+				Updates
+			
+			</a>
+			
+		</li>		
+		<li id="pg672729036137507280" class="wsite-menu-item-wrap   wsite-nav-5" style="position: relative;">
+			<a href="/contact.html" class="wsite-menu-item " style="position: relative;">
+				Contact
+			
+			</a>
+			
+		</li></ul>
+</div>
+		<div id="menu" class="slide-panel">
+			<div id="nav" class="nav w-navpane">
+				<div class="container"><ul class="wsite-menu-default">
+		
+		<li id="active" class="wsite-menu-item-wrap">
+			<a href="/" class="wsite-menu-item ">
+				Home
+			
+			</a>
+			
+		</li>		
+		<li id="pg679933776171784894" class="wsite-menu-item-wrap">
+			<a href="/shop.html" class="wsite-menu-item ">
+				Shop
+			
+			</a>
+			
+		</li>		
+		<li id="pg478548313842267301" class="wsite-menu-item-wrap">
+			<a href="/about.html" class="wsite-menu-item ">
+				About
+			
+			</a>
+			
+		</li>		
+		<li id="pg199602549373908762" class="wsite-menu-item-wrap">
+			<a href="/updates.html" class="wsite-menu-item ">
+				Updates
+			
+			</a>
+			
+		</li>		
+		<li id="pg672729036137507280" class="wsite-menu-item-wrap">
+			<a href="/contact.html" class="wsite-menu-item ">
+				Contact
+			
+			</a>
+			
+		</li></ul>
+</div>
+			</div>
+		</div>
+		<div id="search" class="slide-panel">
+			<div class="container">Search by typing &amp; pressing enter</div>
+		</div>
+		<div id="cart" class="slide-panel">
+			<div class="container"><h2>YOUR CART</h2></div>
+		</div>
+	</div>
+
+	<div id="content">
+		<div id="banner" style="padding-top: 64px;">
+			<div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-header-section wsite-section-bg-image" style="height: 713px;vertical-align: middle;background-image: url(&quot;//cdn2.editmysite.com/images/editor/theme-background/stock/Vegetables.jpg&quot;) ;background-repeat: no-repeat ;background-position: undefined undefined ;background-size: 100% ;background-color: transparent ;background-size: cover;">
+		<div class="wsite-section-content">
+			
+				<div class="banner-content">
+					<div class="container">
+				<div class="wsite-section-elements">
+					<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/462802573.png?428" alt="Picture" style="width:428;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div class="paragraph" style="text-align:center;"><strong>Where social entrepeneurship and health blend together on the Web.</strong><br><span></span></div>
+				</div>
+			</div>
+				</div>
+			
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+		</div>
+
+		<div id="main">
+			<div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-3 wsite-custom-background">
+		<div class="wsite-section-content">
+				<div class="container">
+			<div class="wsite-section-elements">
+				<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:112px;"></div>
+
+<div class="paragraph">​<span>Want to sign up for an account? Send a photo of your fresh groceries our handy phone number! Through some awesome AI (or, maybe, a little bit of magic) we then see what you're buying and how much you're spending on it. From there, we help you develop a healthy eating plan and purchase next week's groceries more efficiently and for cheaper. From there, you donate that extra cash to local food pantries so they can forward social equity in your community.</span><br><span></span></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#666c70">Air Flow</font><font size="7"><br><strong>COLLECTION</strong></font><font size="6"><font size="7"><font size="7"><font size="7"><font size="7"><font size="7"><font size="6"><font size="5"><font size="4"></font></font></font></font></font></font></font></font></font></h2>
+
+<div class="wsite-spacer" style="height:29px;"></div>
+
+<div class="paragraph" style="text-align:center;"><span style="color:rgb(102, 108, 112)">Edit this text to make it your own. To edit, simply click directly on the text to start adding your own words.</span></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-small wsite-button-highlight" href="javascript:;">
+<span class="wsite-button-inner">shop the collection</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/yoga1_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:87px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:44.927536231884%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/yoga2_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:55.072463768116%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:130px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong>6 Things You Need Right Now</strong><br></h2>
+
+<div class="paragraph" style="text-align:center;"><span>﻿</span><span style="color:rgb(102, 108, 112)">Edit this text to make it your own. To edit, click directly&nbsp;</span><br><span style="color:rgb(102, 108, 112)">​on the text to start adding your own words.&nbsp;</span>​</div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-small wsite-button-highlight" href="javascript:;">
+<span class="wsite-button-inner">take a look</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:83px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:38.095238095238%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:159px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong>Shop the Essentials</strong></h2>
+
+<div class="paragraph" style="text-align:center;"><span style="color:rgb(102, 108, 112)">Visitors want to know more about</span><br><span style="color:rgb(102, 108, 112)">​a company. Make this text focused,</span><br><span style="color:rgb(102, 108, 112)">​direct,&nbsp;and informative.</span></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-small wsite-button-highlight" href="javascript:;">
+<span class="wsite-button-inner">see what's new</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:61.904761904762%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/yoga3_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+			</div>
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-background-4 wsite-custom-background" style="height: auto;background-image: url(&quot;/uploads/9/1/6/0/91602050/background-images/1252469698.png&quot;) ;background-repeat: no-repeat ;background-position: 16.67% 16.67% ;background-size: 100% ;background-color: transparent ;background-size: cover;">
+		<div class="wsite-section-content">
+				<div class="container">
+			<div class="wsite-section-elements">
+				<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:53.830227743271%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/yoga4_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:46.169772256729%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:177px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong>Made Just for you</strong></h2>
+
+<div class="paragraph" style="text-align:center;"><span>﻿</span><span style="color:rgb(102, 108, 112)">Visitors want to know more about a company. Make this text focused, direct, and informative.​</span></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-small wsite-button-highlight" href="javascript:;">
+<span class="wsite-button-inner">shop now</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+			</div>
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-5 wsite-custom-background" style="height: auto;vertical-align: middle;">
+		<div class="wsite-section-content">
+				<div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:78px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong>We Are Proud to Call Them Our Partners</strong></h2>
+
+<div class="paragraph" style="text-align:center;"><span style="color:rgb(102, 108, 112)">Edit this text to make it your own. To edit, click directly&nbsp;on the text to start adding your own words.&nbsp;</span><span style="color:rgb(102, 108, 112)">​​​</span></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:18.549222797927%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:10px;"></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/sponsor1_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:23.00518134715%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/sponsor2_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:18.445595854922%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:21px;"></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:90px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/9/1/6/0/91602050/sponsor3_1_orig.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:20%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+			</div>
+	</div>
+</div>
+
+</div>
+
+		</div>
+
+		<div id="footer">
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">
+<style>
+	@font-face {
+		font-family: 'wicons';
+		src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.eot?buildTime=1475783654);
+		src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.eot?buildTime=1475783654#iefix) format('embedded-opentype'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.woff?buildTime=1475783654) format('woff'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.ttf?buildTime=1475783654) format('truetype'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.svg?buildTime=1475783654#wicons) format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+	/* Hack to smooth out font rendering on Chrome for Windows */
+	@media screen and (-webkit-min-device-pixel-ratio: 0) {
+		@font-face {
+			font-family: 'wicons';
+			src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.svg?buildTime=1475783654#wicons) format('svg');
+		}
+	}
+
+	@font-face {
+		font-family: 'wsocial';
+		src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.eot?buildTime=1475783654);
+		src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.eot?buildTime=1475783654#iefix) format('embedded-opentype'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.woff?buildTime=1475783654) format('woff'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.ttf?buildTime=1475783654) format('truetype'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.svg?buildTime=1475783654#wsocial) format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+	/* Hack to smooth out font rendering on Chrome for Windows */
+	@media screen and (-webkit-min-device-pixel-ratio: 0) {
+		@font-face {
+			font-family: 'wsocial';
+			src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.svg?buildTime=1475783654#wsocial) format('svg');
+		}
+	}
+</style>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1475783654"></script>
+<script type="text/javascript">
+	var script;
+	if (typeof Weebly == 'undefined') {
+		Weebly = {};
+	}
+	if (!Weebly.jQuery) {
+		script = document.createElement('script');
+		script.onload = function() {
+			Weebly.jQuery = jQuery.noConflict(true);
+			Weebly.footer.setupContainer(Weebly.jQuery, 'cdn2.editmysite.com', '1475783654', 'www.weebly.com');
+		};
+		script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js';
+		document.head.appendChild(script);
+	} else {
+		Weebly.footer.setupContainer(Weebly.jQuery, 'cdn2.editmysite.com', '1475783654', 'www.weebly.com');
+	}
+</script><div id="weebly-footer-signup-container" class="light auto" style="height: 110px; left: 0px; top: -5477px; width: 147px;">
+	<div class="signup-container-header">
+		<div class="start-free">Create a <a class="link" href="http://www.weebly.com/?utm_source=internal&amp;utm_medium=footer&amp;utm_campaign=3" target="_blank">free website</a></div>
+		<div class="expand-icon"></div>
+		<div class="powered-by"><span>Powered by</span> <a class="link weebly-icon" href="http://www.weebly.com/?utm_source=internal&amp;utm_medium=footer&amp;utm_campaign=3" target="_blank" rel="nofollow"></a></div>
+
+		<div class="short-text">
+			<span>Create your own free website</span><span class="go-icon"></span>
+		</div>
+	</div>
+	<div class="signup-container-content">
+		<h2 class="headline">Start your own free website</h2>
+		<div class="description">A surprisingly easy drag &amp; drop site creator. <a class="thin-underline" href="http://www.weebly.com/?utm_source=internal&amp;utm_medium=footer&amp;utm_campaign=3" target="_blank" rel="nofollow">Learn more.</a></div>
+		<iframe id="weebly-footer-signup-iframe" frameborder="0" src="https://www.weebly.com/footer_signup.php?t=1" allowtransparency="true"></iframe>
+	</div>
+</div>
+</div>
+	</div>
+
+	<div class="overlay w-navpane-close"></div>
+
+	<script type="text/javascript" src="/files/theme/plugins.js?1474500884"></script>
+	<script type="text/javascript" src="/files/theme/custom.js?1474500884"></script>
+
+		<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l0,u91602050.u91602050s688027160482794349"
+});
+</script>
+
+<noscript>
+&lt;div style="display:none;"&gt;
+&lt;img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u91602050.u91602050s688027160482794349" border="0" height="1" width="1" alt="Quantcast"/&gt;
+&lt;/div&gt;
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script>
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+</script>
+<div id="eu-cookie" class="notification" style="display: none;">
+	<span id="eu-cookie-content"></span>
+	<span id="eu-cookie-close">✕</span>
+</div>
+
+<script type="text/javascript">
+	(function($) {
+		var cookie_location = '';
+
+		// this cookie_content should already be pre-encoded from CookieSettingView.js
+		var cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');
+
+		if (!_W.getCookie('688027160482794349_cookie_policy') || (_W.getCookie('688027160482794349_cookie_policy') !== cookie_content)){
+			if (cookie_location === 'top' || cookie_location === 'bottom'){
+				$('#eu-cookie-content').text(decodeURIComponent(cookie_content));
+				(cookie_location === 'top') ? animateFromTop() : animateFromBottom();
+				$('#eu-cookie').show();
+			}
+		}
+
+		$('#eu-cookie-close').click(function(){
+			_W.setCookie('688027160482794349_cookie_policy', cookie_content, 100000);
+			$('#eu-cookie').hide();
+		});
+
+		function animateFromTop(){
+			$('#eu-cookie').css({
+				'top': '0px',
+				'animation': 'reveal-top 1 2s'
+			});
+		}
+
+		function animateFromBottom(){
+			$('#eu-cookie').css({
+				'bottom': '0px',
+				'animation': 'reveal-bottom 1 2s'
+			});
+		}
+	})(window._W && _W.jQuery);
+
+</script>
+
+
+	
+
+<div id="wsite-menus"></div></body>
+</html>
