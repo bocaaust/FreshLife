@@ -9,8 +9,9 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-from mongoengine import connect
-connect('employeedb', username='my_username', password='secret_password')
+from pymongo import MongoClient
+client = MongoClient()
+db = client.fresh_life
 
 DATABASES = {
     'default': {
