@@ -15,7 +15,8 @@ db = client.fresh_life
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.dummy'
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 }
 }
 
