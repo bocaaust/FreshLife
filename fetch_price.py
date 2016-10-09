@@ -4,7 +4,7 @@ import xmltodict
 
 query = "http://www.SupermarketAPI.com/api.asmx/COMMERCIAL_SearchByProductName?APIKEY=c9c2055184&ItemName="
 
-def fetch_price( prod_name ):
+def Fetch_Price( prod_name ):
     new_query = query + urllib.parse.quote(prod_name)
     content = urllib.request.urlopen(new_query).read()
     content = str(content)
@@ -15,4 +15,4 @@ def fetch_price( prod_name ):
     print(res)
     return res
 
-fetch_price( "Cheetos Cheddar Jalapeno Crunchy " )
+#Fetch_Price( "7 Grain Whole Wheat Bread" )
